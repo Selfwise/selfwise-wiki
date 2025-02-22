@@ -1,5 +1,5 @@
 # Wiki Selfwise 
-Documentation / Ressource / Blog
+Documentation / Ressource / Blog :)
 
 ## Introduction
 
@@ -156,7 +156,10 @@ git pull origin main
 - Ne stockez jamais d'informations sensibles dans le wiki
 - Évitez les tokens d'accès ou mots de passe
 - Respectez les règles de confidentialité de Selfwise
+<<<<<<< HEAD
 
 
 --
 
+=======
+>>>>>>> origin/main

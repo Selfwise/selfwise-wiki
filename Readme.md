@@ -1,5 +1,5 @@
 # Wiki Selfwise 
-Documentation / Ressource / Blog
+Documentation / Ressource / Blog :)
 
 ## Introduction
 

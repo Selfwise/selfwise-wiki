@@ -1,12 +1,15 @@
 ---
 date: 2025-02-12
 author: felix m
+public: true
 tags:
   - ressource
   - coaching
   - psychologie
 ---
+
 ![[Pasted image 20250222100304.png]]
+
 # Guide du Coach : Comprendre et Utiliser le Modèle Big Five
 
 ## Introduction

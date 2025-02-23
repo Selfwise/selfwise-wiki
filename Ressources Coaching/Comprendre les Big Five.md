@@ -6,6 +6,7 @@ tags:
   - ressource
   - coaching
   - psychologie
+slug: big-five
 ---
 
 ![[Pasted image 20250222100304.png]]

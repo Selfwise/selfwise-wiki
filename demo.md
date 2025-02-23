@@ -6,7 +6,7 @@ public: true
 
 **liste** des différents articles
 
-- ress:[[Démarrer avec Selfwise]] -[[Bonjour Selfwise!]] -[[Comprendre les big 5]]
+- ress:[[Démarrer avec Selfwise]] -[[Bonjour Selfwise!]] -[[Comprendre les Big Five]]
 
 # Test d'images:
 

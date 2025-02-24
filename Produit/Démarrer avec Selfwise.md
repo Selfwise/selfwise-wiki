@@ -10,8 +10,9 @@ tags:
 
 ![[Pasted image 20250222101222.png]]
 
-Bienvenu à bord!
 
+
+Bienvenu à bord!
 ## Configuration Initiale
 
 ### Création de votre compte professionnel

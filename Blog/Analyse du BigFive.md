@@ -6,7 +6,7 @@ author: rapha
 cover: https://picsum.photos/1200/628?random=157481
 ---
 
-\*\*# 🚀Un Monde en Quête de Connaissance de Soi
+# 🚀Un Monde en Quête de Connaissance de Soi
 
 Le marché du développement personnel et du coaching évolue rapidement. Dans un contexte où les individus cherchent à mieux se connaître pour améliorer leurs performances, leur bien-être et leur communication, la compréhension de la personnalité devient une nécessité stratégique.
 

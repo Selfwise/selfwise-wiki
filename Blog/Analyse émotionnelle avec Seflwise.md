@@ -3,7 +3,7 @@ public: true
 date: 2025-02-25
 author: rapha
 category: Produit
-cover: https://picsum.photos/1200/628?random=15844
+cover: https://picsum.photos/id/237/1200/628
 ---
 
 # 🌟 Miroir des Émotions : L'Inspiration Subtile Derrière Selfwise

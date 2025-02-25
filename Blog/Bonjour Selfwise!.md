@@ -2,6 +2,7 @@
 date: 2025-02-24
 author: rapha
 public: true
+category: Blog
 ---
 
 # Selfwise : La Révolution du Coaching à l’Ère de l'amplification technologique.

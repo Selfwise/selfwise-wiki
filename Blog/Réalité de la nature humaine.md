@@ -3,7 +3,7 @@ public: true
 date: 2025-02-25
 category: Blog
 author: rapha
-cover: https://raw.githubusercontent.com/AuraTown/MidiMama/main/public/MidiMama.png
+cover: https://picsum.photos/1200/628?random=15
 ---
 
 # 📚 Comprendre la courbe de l’oubli et comment Selfwise vous aide à la surmonter

@@ -3,7 +3,7 @@ public: true
 date: 2025-02-25
 category: Produit
 author: rapha
-cover: https://raw.githubusercontent.com/AuraTown/MidiMama/main/public/MidiMama.png
+cover: cover: https://picsum.photos/1200/628?random=157481
 ---
 
 \*\*# 🚀Un Monde en Quête de Connaissance de Soi

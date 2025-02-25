@@ -3,7 +3,7 @@ date: 2025-02-24
 author: rapha
 public: true
 category: Blog
-cover: https://raw.githubusercontent.com/AuraTown/MidiMama/main/public/MidiMama.png
+cover: cover: https://picsum.photos/1200/628?random=1598
 ---
 
 # Selfwise : La Révolution du Coaching à l’Ère de l'amplification technologique.

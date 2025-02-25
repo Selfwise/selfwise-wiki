@@ -3,7 +3,7 @@ category: Blog
 date: 2025-02-25
 public: true
 author: rapha
-cover: https://raw.githubusercontent.com/AuraTown/MidiMama/main/public/MidiMama.png
+cover: cover: https://picsum.photos/1200/628?random=153
 ---
 
 # Préparer une Séance de Coaching Réussie : Guide Pratique et Inspirant 🚀

@@ -3,7 +3,7 @@ public: true
 date: 2025-02-25
 author: rapha
 category: Produit
-cover: https://raw.githubusercontent.com/AuraTown/MidiMama/main/public/MidiMama.png
+cover: cover: https://picsum.photos/1200/628?random=15844
 ---
 
 # 🌟 Miroir des Émotions : L'Inspiration Subtile Derrière Selfwise

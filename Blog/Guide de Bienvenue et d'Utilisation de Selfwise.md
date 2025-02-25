@@ -3,7 +3,7 @@ date: 2025-02-25
 public: true
 category: Produit
 author: rapha
-cover: cover: https://picsum.photos/1200/628?random=15455
+cover: https://picsum.photos/1200/628?random=15455
 ---
 
 ## 1. Introduction

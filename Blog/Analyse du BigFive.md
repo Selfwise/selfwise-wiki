@@ -3,7 +3,7 @@ public: true
 date: 2025-02-25
 category: Produit
 author: rapha
-cover: cover: https://picsum.photos/1200/628?random=157481
+cover: https://picsum.photos/1200/628?random=157481
 ---
 
 \*\*# 🚀Un Monde en Quête de Connaissance de Soi

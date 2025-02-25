@@ -1,5 +1,6 @@
 ---
 public: true
+secret: true
 ---
 
 ![MidiMama](https://raw.githubusercontent.com/AuraTown/MidiMama/main/public/MidiMama.png)
